@@ -1,5 +1,8 @@
 # url-shortener
-Helps for shortening urls
+Only for shortening urls.
+
+See demo deployed to Heroku [Demo](https://urlkisaltici.herokuapp.com/).
+
 
 MEVN Stack Used.
 
